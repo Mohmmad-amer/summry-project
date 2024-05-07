@@ -1,0 +1,22 @@
+ # books = [
+        #     Book("To Kill a Mockingbird", 1960, "Harper Lee", "Fiction", False),
+        #     Book("1984", 1949, "George Orwell", "Dystopian", False),
+        #     Book("The Great Gatsby", 1925, "F. Scott Fitzgerald", "Classic", False),
+        #     Book("Pride and Prejudice", 1813, "Jane Austen", "Romance", False),
+        #     Book("The Catcher in the Rye", 1951, "J.D. Salinger", "Coming-of-Age", False),
+        #     Book("The Hobbit", 1937, "J.R.R. Tolkien", "Fantasy", False),
+        #     Book("Brave New World", 1932, "Aldous Huxley", "Science Fiction", False),
+        #     Book("The Lord of the Rings", 1954, "J.R.R. Tolkien", "Fantasy", False),
+        #     Book("To the Lighthouse", 1927, "Virginia Woolf", "Modernist", False),
+        #     Book("Animal Farm", 1945, "George Orwell", "Satire", False),
+        #     Book("Crime and Punishment", 1866, "Fyodor Dostoevsky", "Psychological Fiction", False),
+        #     Book("The Picture of Dorian Gray", 1890, "Oscar Wilde", "Gothic", False),
+        #     Book("Moby-Dick", 1851, "Herman Melville", "Adventure", False),
+        #     Book("One Hundred Years of Solitude", 1967, "Gabriel Garcia Marquez", "Magical Realism", False),
+        #     Book("The Stranger", 1942, "Albert Camus", "Existentialism", False),
+        #     Book("Frankenstein", 1818, "Mary Shelley", "Gothic", False),
+        #     Book("The Grapes of Wrath", 1939, "John Steinbeck", "Social Commentary", False),
+        #     Book("Beloved", 1987, "Toni Morrison", "Historical Fiction", False),
+        #     Book("The Road", 2006, "Cormac McCarthy", "Post-Apocalyptic", False),
+        #     Book("Gone with the Wind", 1936, "Margaret Mitchell", "Historical Fiction", False)
+        # ]

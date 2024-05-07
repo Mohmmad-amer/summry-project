@@ -1,11 +1,11 @@
 from books_library import Book_library, Book
 
 
+GENR_LIST = ['None', 'Fiction', 'Dystopian', 'Classic', 'Romance', 'Fantasy', 'Science Fiction', 'Adventure',
+                 'Historical']
+
 def main():
     library = Book_library()
-
-    GENR_LIST = ['None', 'Fiction', 'Dystopian', 'Classic', 'Romance', 'Fantasy', 'Science Fiction', 'Adventure',
-                 'Historical']
 
     while True:
         print("\nMenu:")
